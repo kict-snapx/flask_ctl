@@ -1,0 +1,22 @@
+pip install google-generativeai==0.7.2
+pip install langchain-community==0.2.15
+pip install langchain-core==0.2.37
+pip install langchain-openai==0.1.23
+pip install langchain-text-splitters==0.2.2
+pip install langchain==0.2.15
+pip install langchainhub==0.1.21
+pip install langgraph==0.0.69
+pip install langsmith==0.1.108
+pip install pydantic-core==2.23.1 --user
+pip install pydantic==2.9.0b2
+pip install langchain-google-genai==1.0.10
+pip install langchain-huggingface==0.0.3
+pip install faiss-cpu
+pip install pypdf
+# pip install --upgrade pip
+# pip install google-generativeai –upgrade
+# 유사도
+pip install scikit-learn==1.13.1
+pip install scipy==1.13.1
+pip install fastapi
+pip install uvicorn
